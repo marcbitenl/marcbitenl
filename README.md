@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me:
+[https://www.linkedin.com/in/luan-porphirio/](https://www.linkedin.com/in/marcos-bitencourt-leal/)https://www.linkedin.com/in/marcos-bitencourt-leal/
+
+Languages and Tools:
+ SQL 
