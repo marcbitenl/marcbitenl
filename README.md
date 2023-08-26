@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marcos Bitencourt Leal</h1>
 <h3 align="center">JR Data Analyst</h3>
 
-- 🌱 I’m currently learning **Python**
+Technologist in Systems Analysis and Development, Mechanical Engineer.
+Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server
 
+Advanced English
+EF SEP 73/100 C2 Oct/2019
+EF SEP 66/100 C1 May/2022
+
+I currently work as a Data Analist doing ETL process with SSIS (Integration Services) together with SQL Server 2017 and Excel.
+
+- 🌱 I’m currently learning **Python**,**SSIS(Integration Services)** and **PowerBI**
 - 📫 How to reach me **marcbitenl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
