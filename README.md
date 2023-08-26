@@ -5,8 +5,9 @@ Technologist in Systems Analysis and Development, Mechanical Engineer.
 Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server
 
 <h1 align="center">Advanced English</h1>
-<h2 align="center">EF SEP 73/100 C2 Oct/2019</h2>
-<h2 align="center">EF SEP 66/100 C1 May/2022</h2>
+
+EF SEP 73/100 C2 Oct/2019.
+EF SEP 66/100 C1 May/2022.
 
 I currently work as a Data Analist doing ETL process with SSIS (Integration Services) together with SQL Server 2017 and Excel.
 
