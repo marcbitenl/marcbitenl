@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Bitencourt Leal</h1>
-<h3 align="center">Analista de Dados JR</h3>
+<h3 align="center">JR Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python**
 
