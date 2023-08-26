@@ -6,8 +6,8 @@ Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server
 
 <h1 align="center">Advanced English</h1>
 
-EF SEP 73/100 C2 Oct/2019.
-EF SEP 66/100 C1 May/2022.
+- EF SEP 73/100 C2 Oct/2019.
+- EF SEP 66/100 C1 May/2022.
 
 I currently work as a Data Analist doing ETL process with SSIS (Integration Services) together with SQL Server 2017 and Excel.
 
