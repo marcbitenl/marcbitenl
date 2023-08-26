@@ -4,7 +4,7 @@
 Technologist in Systems Analysis and Development, Mechanical Engineer.
 Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server
 
-<h3 align="center">Advanced English</h3>
+<h2 align="center">Advanced English</h2>
 
 - EF SEP 73/100 C2 Oct/2019.
 - EF SEP 66/100 C1 May/2022.
