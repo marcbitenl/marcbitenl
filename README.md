@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcos Bitencourt Leal</h1>
-<h3 align="center">JR Data Analyst</h3>
+<h3 align="center"> Data Analyst</h3>
 
 Technologist in Systems Analysis and Development, Mechanical Engineer.
-Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server
+Microsoft Management Studio, Visual Studio, SSIS, Excel, SQL Server,Azure
 
 <h3 align="left">Fluent in English</h3>
 
