@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, sou Marcos Bitencourt Leal</h1>
 <h3 align="center">Data Engineer | Azure | Databricks | PySpark</h3>
 
-🔹 **Sobre Mim**  
 Sou **Engenheiro de Dados** com experiência em **Azure, Databricks, PySpark e SQL**, atuando em projetos de processamento de dados em larga escala e governança na nuvem. Meu foco é **otimizar pipelines de dados** e implementar soluções escaláveis utilizando **Spark e arquiteturas baseadas no modelo Medallion**.
 
 🔹 **O que eu faço atualmente?**  
