@@ -7,7 +7,6 @@ Sou **Engenheiro de Dados** com experiência em **Azure, Databricks, PySpark e S
 💾 **Desenvolvimento de Pipelines** com **Databricks & PySpark**  
 📊 **Otimização de Queries & Modelagem de Dados** em **Azure SQL & SQL Server**  
 🌐 **Governança de Dados** com **Unity Catalog & Azure IAM**  
-🚀 **Processamento de Dados em Tempo Real** com **Event Hub & Stream Analytics**  
 
 ### 📚 **Certificações**  
 - **AZ-900**: Azure Fundamentals  
