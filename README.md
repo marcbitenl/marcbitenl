@@ -1,18 +1,30 @@
-<h1 align="center">Olá 👋, sou Marcos Bitencourt Leal</h1>
-<h3 align="center">Data Engineer | Azure | Databricks | PySpark</h3>
+## 👋 Hi, I'm Marcos Bitencourt Leal  
+### Data Engineer | Azure | Databricks | PySpark  
 
-Sou **Engenheiro de Dados** com experiência em **Azure, Databricks, PySpark e SQL**, atuando em projetos de processamento de dados em larga escala e governança na nuvem. Meu foco é **otimizar pipelines de dados** e implementar soluções escaláveis utilizando **Spark e arquiteturas baseadas no modelo Medallion**.
+I am a **Data Engineer** with hands-on experience in **Azure and Databricks**, building and maintaining scalable data pipelines in production environments. I work with **PySpark, SQL, and Delta Lake**, focusing on reliability, performance, and data quality across modern Lakehouse architectures.
 
-🔹 **O que eu faço atualmente?**  
-💾 **Desenvolvimento de Pipelines** com **Databricks & PySpark**  
-📊 **Otimização de Queries & Modelagem de Dados** em **Azure SQL & SQL Server**  
-🌐 **Governança de Dados** com **Unity Catalog & Azure IAM**  
+My experience includes designing **end-to-end data pipelines**, handling **incremental loads, reprocessing strategies, and orchestration**, as well as implementing **structured logging and monitoring** to ensure robust data operations.
 
-### 📚 **Certificações**  
-- **AZ-900**: Azure Fundamentals  
-- **DP-900**: Azure Data Fundamentals  
-- **Databricks Data Engineer Associate (em andamento)**  
+---
 
-### 📩 **Como me encontrar?**    
-🔗 **LinkedIn:** [linkedin.com/in/marcos-bitencourt-leal](https://linkedin.com/in/marcos-bitencourt-leal/)  
+### 🚀 What am I currently doing?
 
+- 💾 Building scalable **data pipelines** using **Databricks (PySpark) & Delta Lake**  
+- ⚙️ Orchestrating workflows with **Azure Data Factory & Databricks Workflows**  
+- 📊 Working on **data modeling and performance optimization** in **Azure SQL & Spark**  
+- 🌐 Applying **data governance and security practices** with **Unity Catalog**  
+
+---
+
+### 📚 Certifications
+
+- 🏅 **Databricks Certified Data Engineer Associate**  
+- 🏅 **AZ-900** – Microsoft Azure Fundamentals  
+- 🏅 **DP-900** – Azure Data Fundamentals  
+- 🏅 **AI-900** – Azure AI Fundamentals  
+
+---
+
+### 📫 Connect with me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/marcos-bitencourt-leal/)
